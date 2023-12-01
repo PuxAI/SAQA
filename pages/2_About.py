@@ -9,9 +9,9 @@ st.write("# Welcome to the AI Assistent for Solution Architects! 👋")
 
 st.markdown(
     """
-    iDesign AI is an open-source app framework built specifically for the VodafoneZiggo
+    iDesign AI is an open-source app framework built specifically for the 
     Solution Architects.
-    It provides an AI assistent trained on VodafoneZiggo's IT architecture.
+    It provides an AI assistent on 's IT architecture.
     If you want to train the iDesign AI on specific data, you can upload a document or a confluence page (TBD). 
     This document is embedded (e.g. transformed from text to data and stored in a vector database)
     and can be used by the AI assistent with retrieval augmented generation.
